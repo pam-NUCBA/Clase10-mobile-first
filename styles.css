@@ -1,0 +1,15 @@
+/* fonts */
+@font-face {
+    font-family:"Always";
+    src:
+        url("./assets/Always/AlwaysRegular.eot") format("eot"),
+        url("./assets/Always/AlwaysRegular.woff") format("woff"),
+        url("./assets/Always/AlwaysRegular.ttf") format("truetype"),
+        url("./assets/Always/AlwaysRegular.svg") format("svg");
+    font-weight:normal;
+    font-style:normal;
+}
+
+h1 {
+    font-family: 'Always';
+}
